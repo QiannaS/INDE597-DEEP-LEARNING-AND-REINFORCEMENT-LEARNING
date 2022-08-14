@@ -13,8 +13,10 @@ The convnet has two characters :
 KERAS
 
 # Model
+
 Sequential model
 (Actually, we can also add convnet on functional api)
+In this case, we use convnet to help build a sequential model.
 
 # DATA
 MNIST
