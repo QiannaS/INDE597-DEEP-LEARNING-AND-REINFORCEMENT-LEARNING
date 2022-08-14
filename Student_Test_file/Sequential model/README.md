@@ -9,4 +9,4 @@ A Sequential model is appropriate for a plain stack of layers where each layer h
 MNIST Data
 
 ## Tool
-Tensforflow
+Tensorflow
