@@ -10,7 +10,7 @@ Multi-armed bandit problems are some of the simplest reinforcement learning (RL)
 
 we will use three method to solve banidts problem
   * Gradient
-  * USB
+  * UBC
   * Greedy
   
   
